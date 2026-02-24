@@ -11,7 +11,7 @@
 - 🎓 Information Systems undergraduate
 - 🎓 Technical Degree in Computer Networks
 - 🌐 Interested in Networking, Infrastructure and Cloud Computing
-- 🐧 Linux enthusiast 
+- 🐧 Arch Linux user
 
 ---
 
